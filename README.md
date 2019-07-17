@@ -18,4 +18,4 @@
 
 
 #### Work-In-Progress:
-For project three I hope to perfect the model and test out different categorization strategy : location, manufacture, pathogen and so on. Eventually when the clusters and catergorizations reach to certain satisfication level I would like to do a detailed visualization on this data set.
+For project three I am working to perfect the model and test out different categorization strategy : location, manufacture, pathogen and so on. Eventually when the clusters and catergorizations reach to certain satisfication level I would like to do a detailed visualization on this data set.
