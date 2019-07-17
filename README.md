@@ -1,5 +1,5 @@
 # ML_Practice
-### This Contains Three Projects that I've worked on during and after my Machine Learning course. 
+### This Contains three projects that I've worked on during and after my Machine Learning course. 
 
 #### - Project One : Amazon Review
  
@@ -15,3 +15,7 @@
   
  #### - Project Three : Food Contamination
   For this project, we started to dive into unsupervised learning. We have the choice to work with data on food contamination to cluster incident descriptions into broader categories. I decided to categorize the contamination by food items. This is also related to natural language. I decide to focus more on how to process and treat raw texts accurately and objectively. I worked with the nltk library and tried to clean up the raw texts as much as I can. The results varies depends on the clusters. Some of them are very accurate and some are very hard to see connections.
+
+
+#### Work-In-Progress:
+For project three I hope to perfect the model and test out different categorization strategy : location, manufacture, pathogen and so on. Eventually when the clusters and catergorizations reach to certain satisfication level I would like to do a detailed visualization on this data set.
